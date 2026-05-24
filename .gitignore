@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+data/predictions/
+
+# Trained model files (too large)
+models/
+
+# Environment
+.env
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
