@@ -9,8 +9,7 @@ data/raw/
 data/processed/
 data/predictions/
 
-# Trained model files (too large)
-models/
+
 
 # Environment
 .env
